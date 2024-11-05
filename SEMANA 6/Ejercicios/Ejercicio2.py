@@ -12,3 +12,6 @@ print(f"La suma de cada uno de los digitos del numero {num} es: {suma_num(num)}"
 
 print("hola")
 
+#hola esto es de la rama
+
+
