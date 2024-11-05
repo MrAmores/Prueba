@@ -1,4 +1,3 @@
-#HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 def es_palindrome_recursivo(palabra):
     palabra = palabra.lower().strip()  
     # caso base
