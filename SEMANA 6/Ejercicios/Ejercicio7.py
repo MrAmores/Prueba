@@ -26,5 +26,5 @@ else:
     print(f"RECURSIVO: La palabra {palabra} no es palíndromo: {palabra3} ")
     
 print("Sigo haciendo pruebas")
-
+print("Sigo haciendo pruebas para la rama")
      
