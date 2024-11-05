@@ -20,3 +20,5 @@ palabra = "Carro"
 print(f"La palabra {palabra} al reves es {palabra_al_reves(palabra)}")
 print(f"La palabra {palabra} al reves es {palabra_al_reves2(palabra)}")
 print(f"RECURSIVO La palabra {palabra} al reves es {palabra_al_reves_recursivo(palabra)}")
+
+#HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
