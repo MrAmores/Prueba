@@ -1,4 +1,3 @@
-#HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 def suma_num(num):
     if num == 0:
         return 0
@@ -11,5 +10,3 @@ def suma_num(num):
 num = int(input("Digite un numero "))
 print(f"La suma de cada uno de los digitos del numero {num} es: {suma_num(num)} ")
 
-print("Esto es parte de la rama dev hola hola hola ")
-print("Mi rama Laura")
