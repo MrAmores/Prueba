@@ -9,3 +9,5 @@ def suma_num(num):
     
 num = int(input("Digite un numero "))
 print(f"La suma de cada uno de los digitos del numero {num} es: {suma_num(num)} ")
+
+print("Esto es una prueba")
