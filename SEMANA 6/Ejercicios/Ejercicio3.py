@@ -1,5 +1,5 @@
 def division_entera_recursiva(num1, num2):
-    if num2 == 0:
+if num2 == 0:
         return print("No se ppuede dividir entre cero")
     elif num1 < num2:
         return 0
