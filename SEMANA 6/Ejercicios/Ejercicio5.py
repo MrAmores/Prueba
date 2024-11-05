@@ -1,3 +1,4 @@
+#HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 def compara_vectores(vec1, vec2):
     if len(vec1) != len(vec2):
         return False  
