@@ -31,5 +31,5 @@ print(f"El vector {vector1} es igual al vector {vector3} {compara_vectores(vecto
 print(f"RECURSIVO El vector {vector1} es igual al vector {vector2} {compara_vectores_recursiva(vector1, vector2)}") 
 print(f"RECURSIVO El vector {vector1} es igual al vector {vector3} {compara_vectores_recursiva(vector1, vector3)}")  
 
-
+#HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         
