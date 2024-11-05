@@ -8,5 +8,7 @@ def suma_num(num):
         return suma
     
 num = int(input("Digite un numero "))
-print(f"La suma de cada uno de los digitos del numero {num} es: {suma_num(num)} ")
+print(f"La suma de cada uno de los digitos del numero {num} es: {suma_num(num)}")
+
+print("hola")
 
