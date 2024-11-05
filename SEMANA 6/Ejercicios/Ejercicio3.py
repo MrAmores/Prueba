@@ -11,6 +11,8 @@ num2 = int(input("Digite el divisor "))
 print (f"Division entera {num1//num2}")
 print(f"La división enterea de {num1}/{num2} es: {division_entera_recursiva(num1,num2)}")
 
+print("Prueba")
+
 
 
 
