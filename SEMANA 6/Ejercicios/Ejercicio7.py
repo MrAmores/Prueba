@@ -24,5 +24,7 @@ if palabra.lower().strip() == palabra2.lower().strip():
 else:
     print(f"La palabra {palabra} no es palíndromo: {palabra2} ")
     print(f"RECURSIVO: La palabra {palabra} no es palíndromo: {palabra3} ")
+    
+print("Sigo haciendo pruebas")
 
      
